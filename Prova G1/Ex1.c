@@ -3,8 +3,8 @@
 
 //1. Escreva um programa na linguagem C que leia um vetor G de 10 elementos do tipo caracter que
 // representa o gabarito de uma prova; a seguir, para cada um dos 20 alunos da turma, leia o vetor respostas do aluno (vetor R com 10 elementos
-// do tipo caracter) e conte o número de acertos. Para cada aluno, mostre o número de acertos do aluno e a 
-// mensagem de “Aprovado” se a quantidade de acertos for maior ou igual a 6, e uma mensagem “Reprovado” caso contrário. 
+// do tipo caracter) e conte o nï¿½mero de acertos. Para cada aluno, mostre o nï¿½mero de acertos do aluno e a 
+// mensagem de ï¿½Aprovadoï¿½ se a quantidade de acertos for maior ou igual a 6, e uma mensagem ï¿½Reprovadoï¿½ caso contrï¿½rio. 
 
 main(){
 	char G[10], R[10];
