@@ -56,14 +56,14 @@ main(){
 	fflush(stdin);
 
 	
-	printf("\n Dseja procurar carro por placa (s/n)? ");
+	printf("\n Deseja procurar carro por placa (s/n)? ");
 	scanf("%c", &resp);
 	
 	fflush(stdin);
 	
 	while(resp != 's' && resp != 'n'){
 		printf("\n INSIRA UMA RESPOSTA VALIDA! --> (s/n)");
-		printf("\n Dseja procurar carro por placa (s/n)? ");
+		printf("\n Deseja procurar carro por placa (s/n)? ");
 		scanf("%c", &resp);
 		
 		fflush(stdin);
@@ -106,7 +106,7 @@ main(){
 			
 			while(resp != 's' && resp != 'n'){
 				printf("\n INSIRA UMA RESPOSTA VALIDA! --> (s/n)");
-				printf("\n Dseja procurar carro por placa (s/n)? ");
+				printf("\n Dseja procurar outro carro por placa (s/n)? ");
 				scanf("%c", &resp);
 				
 				fflush(stdin);
